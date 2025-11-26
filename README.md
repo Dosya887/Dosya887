@@ -7,8 +7,8 @@
 [<img alt="Dosya887's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Dosya887&theme=midnight-purple&show_icons=true&hide_border=true">](https://github.com/Dosya887)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dosya887&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/Dosya887)
 
-[<img alt="Dosya887's Github Stats" src="https://github-readme-stats.zcy.dev/api?username=MrPrezAtambaev&theme=midnight-purple&show_icons=true&hide_border=true">](https://github.com/MrPrezAtambaev)
-[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=MrPrezAtambaev&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/Dosya887)
+[<img alt="Dosya887's Github Stats" src="https://github-readme-stats.zcy.dev/api?username=Dosya887&theme=midnight-purple&show_icons=true&hide_border=true">](https://github.com/Dosya887)
+[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=Dosya887&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/Dosya887)
 <!--
 **Dosya887/Dosya887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
