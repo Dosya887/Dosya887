@@ -1,13 +1,11 @@
 ### Hi I am Junior Python Developer
 ### Stack:
 
-### Back-End:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/python-%23000?style=for-the-badge&logo=python&logoColor=blue) ![Django](https://img.shields.io/badge/django-%23000?style=for-the-badge&logo=django&logoColor=darkgreen)
+Back-End:
+https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white https://img.shields.io/badge/python-%2523000?style=for-the-badge&logo=python&logoColor=blue https://img.shields.io/badge/django-%2523000?style=for-the-badge&logo=django&logoColor=darkgreen https://img.shields.io/badge/Django%2520Rest%2520Framework-%2523000?style=for-the-badge&logo=django&logoColor=red https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%2520web%2520tokens&logoColor=white
 
-
-[<img alt="Dosya887's Github Stats" src="https://github-readme-stats.zcy.dev/api?username=Dosya887&theme=midnight-purple&show_icons=true&hide_border=true">](https://github.com/Dosya887)
-[![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=Dosya887&layout=compact&hide_border=true&theme=midnight-purple)](https://github.com/Dosya887)
-<!--
+<img alt="Dosya887's Github Stats" src="https://github-readme-stats.zcy.dev/api?username=Dosya887&theme=midnight-purple&show_icons=true&hide_border=true">
+https://github-readme-stats.zcy.dev/api/top-langs?username=Dosya887&layout=compact&hide_border=true&theme=midnight-purple
 **Dosya887/Dosya887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
